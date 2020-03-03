@@ -20,12 +20,12 @@
 @import "ui/empty";
 @import "ui/grid";
 @import "ui/icons";
-// @import "ui/forms"; // not properly supported yet
+@import "ui/forms"; // not properly supported yet
 // @import "ui/forms/form-icon";
 // @import "ui/forms/form-colorinput";
 // @import "ui/forms/form-imagecheck";
 // @import "ui/forms/form-selectgroup";
-// @import "ui/forms/form-custom";
+@import "ui/forms/form-custom";
 // @import "ui/forms/validation";
 @import "ui/legend";
 @import "ui/lists";
